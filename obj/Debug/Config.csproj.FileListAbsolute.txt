@@ -1,0 +1,10 @@
+C:\Unity\Config\bin\Debug\Config.exe.config
+C:\Unity\Config\bin\Debug\Config.exe
+C:\Unity\Config\bin\Debug\Config.pdb
+C:\Unity\Config\obj\Debug\Config.csprojAssemblyReference.cache
+C:\Unity\Config\obj\Debug\Config.csproj.ResolveComReference.cache
+C:\Unity\Config\obj\Debug\Config.ConfigManager.resources
+C:\Unity\Config\obj\Debug\Config.Properties.Resources.resources
+C:\Unity\Config\obj\Debug\Config.csproj.GenerateResource.cache
+C:\Unity\Config\obj\Debug\Config.exe
+C:\Unity\Config\obj\Debug\Config.pdb
